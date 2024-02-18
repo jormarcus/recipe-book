@@ -14,6 +14,11 @@ export class RecipeListComponent implements OnInit {
       'A delicious Italian dish',
       'https://thecozycook.com/wp-content/uploads/2022/08/Chicken-Parmesan-Recipe-f-500x500.jpg'
     ),
+    new Recipe(
+      'Chicken Marsala',
+      'A delicious Italian dish',
+      'https://cafedelites.com/wp-content/uploads/2018/04/Creamy-Chicken-Marsala-IMAGE-21.jpg'
+    ),
   ];
 
   constructor() {}
